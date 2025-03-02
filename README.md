@@ -1,1 +1,1 @@
-This is a project that was created by Ramirez Valdovinos Eric and Sanchez Mayen Tristan for the subject 'Estructuralista y Programacion de Computadoras' thaught by the Faculty Engineering at UNAM in the Computer Engineering degree. It's a Desassabler of the Z80 microprocessor.
+This is a project that was created by Ramirez Valdovinos Eric and Sanchez Mayen Tristan for the subject 'Estructura y Programacion de Computadoras' thaught by the Faculty Engineering at UNAM in the Computer Engineering degree. It's a Desassabler of the Z80 microprocessor.
